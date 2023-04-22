@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> Rotten Or Right </h1>
+      <h1> Rotten Or Fresh Fruit Detection </h1>
       </div>
 
 
